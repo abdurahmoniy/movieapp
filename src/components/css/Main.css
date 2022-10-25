@@ -1,0 +1,25 @@
+.forminput input::placeholder {
+    color: #fff;
+}
+
+.forminput input {
+    width: 525px;
+    height: 36px;
+    border: 2px solid #fff;
+    border-radius: 6px;
+    width: 100%;
+    padding: 10px;
+}
+
+.icon {
+    position: absolute;
+    color: #fff;
+    padding: 10px;
+    margin-left: -40px;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-text, .card-year {
+    color: #9CA3AF;
+}

@@ -1,0 +1,15 @@
+.movies {
+    display: grid;
+    grid-template-columns: auto 1fr 1fr 1fr;
+}
+.wrap {
+    background-color: #f2f2f2;
+}
+.cart {
+    margin: 25px 20px;
+    width: 250px;
+    height: 490px;
+}
+.cart img {
+    height: 370px;
+}

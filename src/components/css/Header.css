@@ -1,0 +1,19 @@
+.hdr {
+    height: 100vh;
+    background-image: url('../img/Poster.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content {
+    font-size: 60px;
+    font-weight: bold;
+}
+.hdr1 {
+    width: 400px ;
+    float: left;
+    padding-top: 30%;
+}
+.all {
+    width:1440px;
+
+}
